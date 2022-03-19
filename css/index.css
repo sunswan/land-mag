@@ -545,7 +545,7 @@ body {
 }
 @media (max-width: 570px) {
   .about__text {
-    width: 370px;
+    width: 340px;
   }
 }
 .about__title {
