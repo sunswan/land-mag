@@ -710,7 +710,7 @@ body {
 }
 @media (max-width: 570px) {
   .FAQ__block-text {
-    width: 350px;
+    width: 335px;
     padding-top: 20%;
   }
 }
@@ -734,7 +734,7 @@ body {
 }
 @media (max-width: 570px) {
   .FAQ__page-body {
-    max-width: 400px;
+    max-width: 340px;
     margin: 20px 0;
   }
 }
