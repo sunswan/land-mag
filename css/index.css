@@ -420,6 +420,12 @@ body {
   background-color: white;
   align-items: center;
 }
+  @media (max-width: 450px) {
+    .navy {
+      width: 100vw;
+    }
+  }
+
 .navy__links {
   margin-top: 38%;
   margin-right: 17%;
